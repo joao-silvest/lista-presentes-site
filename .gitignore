@@ -1,0 +1,16 @@
+ # Ignorar ambiente virtual do Python
+venv/
+*.pyc
+__pycache__/
+
+# Ignorar dependências do Node.js (Frontend)
+node_modules/
+build/
+
+# Arquivos de configuração locais
+.env
+.DS_Store
+
+backend/venv/
+backend/.env
+backend/.DS_Store
